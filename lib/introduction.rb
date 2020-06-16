@@ -1,3 +1,3 @@
-def introduction
-puts "Hello "
+def introduction(name)
+  puts "Hin my name is #{name} "
 end
